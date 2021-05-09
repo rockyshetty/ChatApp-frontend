@@ -1,6 +1,6 @@
 import LoginSignup  from "./components/LoginSignup";
 
-function App() {
+function App() {  
   return (
     <>
       <LoginSignup/>
