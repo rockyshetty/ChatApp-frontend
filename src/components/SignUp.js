@@ -104,8 +104,8 @@ const  SignUp=() =>{
             </reactbootstrap.Row>
             <reactbootstrap.Row className="flex-row-reverse mt-2">
                 <reactbootstrap.ButtonGroup>
-                    <reactbootstrap.Button variant="outline-danger"  size="sm" className="m-1">Cancel</reactbootstrap.Button>
-                    <reactbootstrap.Button variant="outline-success" size="sm" className="m-1" >Submit</reactbootstrap.Button>
+                    <reactbootstrap.Button variant="danger"  size="sm" className="m-1">Cancel</reactbootstrap.Button>
+                    <reactbootstrap.Button variant="success" size="sm" className="m-1" >Submit</reactbootstrap.Button>
                 </reactbootstrap.ButtonGroup>
             </reactbootstrap.Row>
         </reactbootstrap.Container>

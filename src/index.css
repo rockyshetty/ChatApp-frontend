@@ -14,4 +14,5 @@ code {
 }
 #root{
   background-color: darkmagenta;
+  height: 100vh;
 }
